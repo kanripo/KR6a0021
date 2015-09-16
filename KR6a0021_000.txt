@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 梵網六十二見經
+#+DATE: 2015-08-30 19:28:15.664108
+#+PROPERTY: JUAN 0
